@@ -7,3 +7,5 @@ In this lecture we are going to discuss basic features of GitHub.
 4. how to add files to repository
 5. How to create branches
 6. how to compare and pull and merge your branches to main
+7. Added Marina&Yacht.py to repository
+   
